@@ -3,6 +3,10 @@ import * as mongoose from 'mongoose';
 export const BookSchema = new mongoose.Schema({
   title: String,
   categories: Array,
-  author: [mongoose.Schema.Types.ObjectId],
+  description: String,
+  author: {
+    type: mongoose.Schema.Types.ObjectId,
+    ref: 'authors'
+  },
   pages: Number
 });

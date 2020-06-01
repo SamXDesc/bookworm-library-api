@@ -1,17 +1,18 @@
-import { Controller, Get, Param, Post, Body, Patch, Delete } from '@nestjs/common';
+import { Controller, Get, Param, Post, Body, Patch, Delete, Query } from '@nestjs/common';
 import { IBook } from './book.interface';
 import { BooksService } from './books.service';
 import { Schema } from 'mongoose';
 import { CreateBookDto } from './dtos/create-book.dto';
 import { UpdateBookDto } from './dtos/update-book.dto';
+import FilterDto from './dtos/filter.dto';
 
 @Controller('books')
 export class BooksController {
   constructor (private readonly service: BooksService) {}
 
   @Get()
-  async index (): Promise<IBook[]> {
-    return await this.service.retrieve()
+  async index (@Query() filters: FilterDto): Promise<IBook[]> {
+    return await this.service.retrieve(filters)
   }
 
   @Get(':id')

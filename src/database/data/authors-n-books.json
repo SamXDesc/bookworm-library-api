@@ -1,0 +1,205 @@
+[
+  {
+    "name": "John",
+    "lastname": "Ronald Reuel Tolkien",
+    "abbreviation": "J.R.R Tolkien",
+    "books": [
+      {
+        "title": "O Silmarillion",
+        "description": "O Silmarillion, agora reeditado pela Editora WMF Martins Fontes, relata acontecimentos de uma época muito anterior ao final da Terceira Era, quando ocorreram os grandes eventos narrados em O Senhor dos Anéis. São lendas derivadas de um passado remoto, ligadas às Silmarils, três gemas perfeitas criadas por Fëanor, o mais talentoso dos elfos. Tolkien trabalhou nesses textos ao longo de toda a sua vida, tornando-os veículo e registro de suas reflexões mais profundas.",
+        "year": "1977",
+        "pages": 365,
+        "categories": ["FANTASY"]
+      },
+
+      {
+        "title": "O Senhor dos Anéis - A Sociedade do Anel",
+        "description": "Numa cidadezinha indolente do Condado, um jovem hobbit é encarregado de uma imensa tarefa. Deve empreender uma perigosa viagem através da Terra-média até as Fendas da Perdição, e lá destruir o Anel do Poder - a única coisa que impede o domínio maléfico do Senhor do Escuro.",
+        "year": "1954",
+        "pages": 423,
+        "categories": ["FANTASY"]
+      },
+
+      {
+        "title": "O Senhor dos Anéis - As Duas Torres",
+        "description": "A Comitiva do Anel se divide. Frodo e Sam continuam a viagem, descendo sozinhos o Grande Rio Anduin ? mas não tão sozinhos assim, pois uma figura misteriosa segue todos os seus passos...",
+        "year": "1954",
+        "pages": 352,
+        "categories": ["FANTASY"]
+      },
+
+      {
+        "title": "O Senhor dos Anéis - O Retorno do Rei",
+        "description": "A guerra entre os Povos Livres da Terra-média e Sauron, o Senhor Sombrio da terra de Mordor, chega a seu clímax neste terceiro volume do romance O Senhor dos Anéis. As batalhas grandiosas que estão prestes a acontecer, no entanto, são apenas o pano de fundo para o verdadeiro drama: a missão quase suicida dos hobbits Frodo e Sam, que tentam destruir o Um Anel, fonte do poder de Sauron, infiltrando-se no coração do território do Inimigo.",
+        "year": "1955",
+        "pages": 416,
+        "categories": ["FANTASY"]
+      },
+
+      {
+        "title": "O Hobbit",
+        "description": "Bilbo Bolseiro é um hobbit que leva uma vida confortável e sem ambições. Mas seu contentamento é perturbado quando Gandalf, o mago, e uma companhia de anões batem à sua porta e levam-no para uma expedição. Eles têm um plano para roubar o tesouro guardado por Smaug, o Magnífico, um grande e perigoso dragão. Bilbo reluta muito em participar da aventura, mas acaba surpreendendo até a si mesmo com sua esperteza e sua habilidade como ladrão!",
+        "year": "1937",
+        "pages": 310,
+        "categories": ["FANTASY"]
+      },
+
+      {
+        "title": "Os Filhos de Húrin",
+        "description": "Muito antes da era de O Senhor dos Anéis, Morgoth, o primeiro Senhor do Escuro, lança uma terrível maldição contra toda a família de Húrin, o homem que tinha ousado desafiá-lo frente a frente. Assim, os destinos de Túrin e de sua irmã Niënor serão tragicamente entrelaçados. A vida breve e apaixonada dos dois irmãos é dominada pelo ódio de Morgoth, que envia seu mais temível servo, Glaurung, poderoso espírito na forma de um enorme dragão de fogo sem asas, numa tentativa de cumprir sua maldição e destruir os filhos de Húrin.",
+        "year": "2007",
+        "pages": 320,
+        "categories": ["FANTASY"]
+      }
+    ]
+  },
+
+  {
+    "name": "Clive",
+    "lastname": "Staples Lewis",
+    "abbreviation": "C.S. Lewis",
+    "books": [
+      {
+        "title": "O Cristianismo Puro e Simples",
+        "description": "Em um dos períodos mais sombrios da humanidade, a Segunda Guerra Mundial, C.S. Lewis foi convidado pela BBC a fazer uma série de palestras pelo rádio com o intuito de explicar a fé cristã de forma simples e clara. Mais tarde, ajustado pelo próprio Lewis, esse material daria origem a Cristianismo puro e simples, um grande clássico da literatura. Na obra mais popular e acessível de seu legado, Lewis apresenta os principais elementos da cosmovisão cristã, gradativamente conduzindo o leitor a temas mais profundos e complexos, provocando reflexão e debate. Nesta edição especial e com tradução de uma das maiores especialistas em Lewis do Brasil, você vai encontrar as palavras que encorajaram e fortaleceram milhares de ouvintes em tempos de guerra — e ainda reverberam mais de 70 anos depois.",
+        "year": "1952",
+        "pages": 288,
+        "categories": ["RELIGION", "CHRISTIAN"]
+      },
+
+      {
+        "title": "Carta de Um Diabo a Seu Aprendiz",
+        "description": "Irônica, astuta, irreverente. Assim pode ser descrita esta obra-prima de C.S. Lewis, dedicada a seu amigo J.R.R. Tolkien. Um clássico da literatura cristã, este retrato satírico da vida humana, feito pelo ponto de vista do diabo, tem divertido milhões de leitores desde sua primeira publicação, na década de 1940; agora com novo projeto gráfico e tradução atual.Cartas de um diabo a seu aprendiz é a correspondência ao mesmo tempo cômica, séria e original entre um diabo e seu sobrinho aprendiz. Revelando uma personalidade mais espirituosa, Lewis apresenta nesta obra a mais envolvente narrativa já escrita sobre tentações ― e a superação delas.",
+        "year": "1942",
+        "pages": 160,
+        "categories": ["RELIGION", "CHRISTIAN", "SATIRE"]
+      },
+
+      {
+        "title": "Os Quatro Amores",
+        "description": "Como expressar de maneira profunda um sentimento comumente tratado de forma tão rasa? Para o célebre escritor C.S. Lewis, o amor pode ser comunicado de quatro maneiras: Afeição, a forma mais básica de amar; Amizade, considerada a mais rara; Eros, o amor apaixonado; e Caridade, o maior e menos egoísta deles. Em “Os quatro amores”, um de seus livros mais influentes, agora enriquecido por nova tradução, Lewis contempla a essência do amor e avalia como cada tipo se ajusta aos demais. Com a maestria que o tornou um dos autores mais importantes do século XX, ele desafia e incorpora definições clássicas do amor de uma forma que continua atual e relevante. Como lembra o autor, foi por amor que Deus fez existir criaturas inteiramente supérfluas, somente a fim de poder amá-las e aperfeiçoá-las.",
+        "year": "1960",
+        "pages": 160,
+        "categories": ["RELIGION", "CHRISTIAN"]
+      },
+
+      {
+        "title": "A Última Noite do Mundo",
+        "description": "Nestes setes ensaios espirituosos e lúcidos o grande escritor, pensador, teólogo popular e apologista cristão C.S. Lewis aborda diversas questões religiosas intrigantes e complexas. Ele também pondera sobre as evidências da oração eficaz, brinca com o significado das palavras “Eu creio” e nos força a imaginar como devemos encarar nossos conceitos sobre Deus e até mesmo sobre a possibilidade de haver ou não vidas em outros planetas. A última noite do mundo, um dos ensaios principais desta coletânea, lida com a questão da volta de Cristo e traz uma perspectiva brilhante para elucidar o debate. Como sempre, encontramos nesses ensaios um Lewis que mistura humor, ironia, paradoxos e uma perspicácia marcante que desafia a nossa fé.",
+        "year": "1960",
+        "pages": 133,
+        "categories": ["RELIGION", "CHRISTIAN"]
+      }
+    ]
+  },
+
+  {
+    "name": "Joanne",
+    "lastname": "Rowling",
+    "abbreviation": "J.K. Rowling",
+    "books": [
+      {
+        "title": "Harry Potter e a Pedra Filosofal",
+        "description": "Harry Potter e a Pedra Filosofal é o primeiro dos sete livros da série de fantasia Harry Potter, escrita por J. K. Rowling. O livro conta a história de Harry Potter, um órfão criado pelos tios que descobre, em seu décimo primeiro aniversário, que é um bruxo.",
+        "year": "1997",
+        "pages": 208,
+        "categories": ["FANTASY"]
+      },
+
+      {
+        "title": "Harry Potter e a Câmara Secreta",
+        "description": "Depois de férias aborrecidas na casa dos tios trouxas, está na hora de Harry Potter voltar a estudar. Coisas acontecem, no entanto, para dificultar o regresso de Harry. Persistente e astuto, o herói não se deixa intimidar pelos obstáculos e, com a ajuda dos fiéis amigos Weasley, começa o ano letivo na Escola de Magia e Bruxaria de Hogwarts. As novidades não são poucas. Novos colegas, novos professores, muitas e boas descobertas e um grande e perigosos desafio. Alguém ou alguma coisa ameaça a segurança e a tranquilidade dos membros de Hogwarts.",
+        "year": "1998",
+        "pages": 224,
+        "categories": ["FANTASY"]
+      },
+
+      {
+        "title": "Harry Potter e o Prisioneiro de Azkaban",
+        "description": "As aulas estão de volta à Hogwarts e Harry Potter não vê a hora de embarcar no expresso a vapor que o levará de volta à escola de bruxaria. Mais uma vez suas férias na rua dos Alfeneiros foi triste e solitária. Com muita ação, humor e magia, 'Harry Potter e o prisioneiro de Azkaban' traz de volta o gigante atrapalhado Rúbeo Hagrid, o sábio diretor Alvo Dumbledore, a exigente professora de transformação Minerva MacGonagall e o novo mestre Lupin, que guarda grandes surpresas para Harry.",
+        "year": "1999",
+        "pages": 288,
+        "categories": ["FANTASY"]
+      },
+
+      {
+        "title": "Harry Potter e o Cálice de Fogo",
+        "description": "Nesta aventura, o feiticeiro cresceu e está com 14 anos. O início do ano letivo de Harry Potter reserva muitas emoções, mágicas, e acontecimentos inesperados, além de um novo torneio em que os alunos de Hogwarts terão de demonstrar todas as habilidade mágicas e nãomágicas que vêm adquirindo ao longo de suas vidas. Harry é escolhido pelo Cálice de Fogo para competir como um dos campeões de Hogwarts, tendo ao lado seus fiéis amigos. Muitos desafios, feitiços, poções e confusões estão reservados para Harry. Além disso, ele terá que lidar ainda com os problemas comuns da adolescência amor, amizade, aceitação e rejeição.",
+        "year": "2000",
+        "pages": 288,
+        "categories": ["FANTASY"]
+      },
+
+      {
+        "title": "Harry Potter e a Ordem da Fênix",
+        "description": "Harry não é mais um garoto. Aos 15 anos, continua sofrendo a rejeição dos Dursdley, sua estranha família no mundo dos 'trouxas'. Também continua contando com Rony Weasley e Hermione Granger, seus melhores amigos em Hogwarts, para levar adiante suas investigações e aventuras. Mas o bruxinho começa a sentir e descobrir coisas novas, como o primeiro amor e a sexualidade. Nos volumes anteriores, J. K. Rowling mostrou como Harry foi transformado em celebridade no mundo da magia por ter derrotado, ainda bebê, Voldemort, o todopoderoso bruxo das trevas que assassinou seus pais. Neste quinto livro da saga, o protagonista, numa crise típica da adolescência, tem ataques de mau humor com a perseguição da imprensa, que o segue por todos os lugares e chega a inventar declarações que nunca deu. Harry vai enfrentar as investidas de Voldemort sem a proteção de Dumbledore, já que o diretor de Hogwarts é afastado da escola. E vai ser sem a ajuda de seu protetor que o jovem herói enfrentará descobertas sobre a personalidade controversa de seu pai, Tiago Potter, e a morte de alguém muito próximo.",
+        "year": "2003",
+        "pages": 640,
+        "categories": ["FANTASY"]
+      },
+
+      {
+        "title": "Harry Potter e a Enígma do Príncipe",
+        "description": "Harry Potter e o enigma do príncipe' dá continuidade à saga do jovem bruxo Harry Potter a partir do ponto em que o livro anterior parou o momento em que fica provado que o poder de Voldemort e dos Comensais da Morte, seus seguidores, cresce mais a cada dia, em meio à batalha entre o bem e o mal. A onda de terror provocada pelo Lorde das Trevas estaria afetando, até mesmo, o mundo dos trouxas (nãobruxos), e sendo agravada pela ação dos dementadores, criaturas mágicas aterrorizantes que 'sugam' a esperança e a felicidade das pessoas. Harry, que acabou de completar 16 anos, parte rumo ao sexto ano na Escola de Magia e Bruxaria de Hogwarts, animado e ao mesmo tempo apreensivo com a perspectiva de ter aulas particulares com o professor Dumbledore, o diretor da escola e o bruxo mais respeitado em toda comunidade mágica. Harry, longe de ser aquele menino magricela que vivia no quarto debaixo da escada na casa dos tios trouxas, é um dos principais nomes entre aqueles que lutam contra Voldemort, e se vê cada vez mais isolado à medida que os rumores de que ele é O Eleito o único capaz de derrotar o Lorde das Trevas, se espalham pelo mundo dos bruxos. Dois atentados contra a vida de estudantes, a certeza de Harry quanto ao envolvimento de Draco Malfoy com os Comensais da Morte e o comportamento de Snape, suspeito como sempre, adicionam ainda mais tensão ao já inquietante período. Apesar de tudo isso, Harry e os amigos são adolescentes típicos dividem tarefas escolares e dormitórios bagunçados, correm das aulas para os treinos de quadribol, e namoram.",
+        "year": "2005",
+        "pages": 432,
+        "categories": ["FANTASY"]
+      },
+
+      {
+        "title": "Harry Potter e as Relíquias da Morte",
+        "description": "Harry Potter e as relíquias da morte', de J.K. Rowling, é o sétimo e último livro da série. Voldemorte está cada vez mais forte e Harry Potter precisa encontrar e aniquilar as Horcruxes para enfraquecer o lorde e poder enfrentálo. Nessa busca desenfreada, contando apenas com os amigos Rony e Hermione, Harry descobre as Relíquias da Morte, que serão úteis na batalha do bem contra o mal.",
+        "year": "2007",
+        "pages": 512,
+        "categories": ["FANTASY"]
+      }
+    ]
+  },
+
+  {
+    "name": "Dan",
+    "lastname": "Brown",
+    "abbreviation": "Dan Brown",
+    "books": [
+      {
+        "title": "Anjos e Demônios",
+        "description": "Antes de decifrar ´O Código Da Vinci´, Robert Langdon, o famoso professor de simbologia de Harvard, vive sua primeira aventura em Anjos e Demônios, quando tenta impedir que uma antiga sociedade secreta destrua a Cidade do Vaticano. Às vésperas do conclave que vai eleger o novo Papa, Langdon é chamado às pressas para analisar um misterioso símbolo marcado a fogo no peito de um físico assassinado em um grande centro de pesquisas na Suíça. Ele descobre indícios de algo inimaginável: a assinatura macabra no corpo da vítima – um ambigrama que pode ser lido tanto de cabeça para cima quanto de cabeça para baixo – é dos Illuminati, uma poderosa fraternidade considerada extinta há quatrocentos anos. A antiga sociedade ressurgiu disposta a levar a cabo a lendária vingança contra a Igreja Católica, seu inimigo mais odiado. De posse de uma nova arma devastadora, roubada do centro de pesquisas, ela ameaça explodir a Cidade do Vaticano e matar os quatro cardeais mais cotados para a sucessão papal. Correndo contra o tempo, Langdon voa para Roma junto com Vittoria Vetra, uma bela cientista italiana. Numa caçada frenética por criptas, igrejas e catedrais, os dois desvendam enigmas e seguem uma trilha que pode levar ao covil dos Illuminati – um refúgio secreto onde está a única esperança de salvação da Igreja nesta guerra entre ciência e religião. Em Anjos e Demônios, Dan Brown demonstra novamente sua extraordinária habilidade de entremear suspense com fascinantes informações sobre ciência, religião e história da arte, despertando a curiosidade dos leitores para os significados ocultos deixados em monumentos e documentos históricos.",
+        "year": "2000",
+        "pages": 616,
+        "categories": ["FICTION", "THRILLER", "ROMANCE"]
+      },
+
+      {
+        "title": "O Código DaVinci",
+        "description": "Um assassinato dentro do Museu do Louvre, em Paris, traz à tona uma sinistra conspiração para revelar um segredo que foi protegido por uma sociedade secreta desde os tempos de Jesus Cristo. A vítima é o respeitado curador do museu, Jacques Saunière, um dos líderes dessa antiga fraternidade, o Priorado de Sião, que já teve como membros Leonardo da Vinci, Victor Hugo e Isaac Newton. Momentos antes de morrer, Saunière deixa uma mensagem cifrada que apenas a criptógrafa Sophie Neveu e Robert Langdon, um simbologista, podem desvendar. Eles viram suspeitos e detetives enquanto tentam decifrar um intricado quebra-cabeças que pode lhes revelar um segredo milenar que envolve a Igreja Católica. Apenas alguns passos à frente das autoridades e do perigoso assassino, Sophie e Robert vão à procura de pistas ocultas nas obras de Da Vinci e se debruçam sobre alguns dos maiores mistérios da cultura ocidental - da natureza do sorriso da Mona Lisa ao significado do Santo Graal. Mesclando os ingredientes de um envolvente suspense com informações sobre obras de arte, documentos e rituais secretos, Dan Brown consagrou-se como um dos autores mais brilhantes da atualidade.",
+        "year": "2003",
+        "pages": 432,
+        "categories": ["FICTION", "THRILLER", "ROMANCE"]
+      },
+
+      {
+        "title": "O símbolo perdido",
+        "description": "Depois de ter sobrevivido a uma explosão no Vaticano e a uma caçada humana em Paris, Robert Langdon está de volta com seus profundos conhecimentos de simbologia e sua brilhante habilidade para solucionar problemas. Em O símbolo perdido, o célebre professor de Harvard é convidado às pressas por seu amigo e mentor Peter Solomon – eminente maçom e filantropo – a dar uma palestra no Capitólio dos Estados Unidos. Ao chegar lá, descobre que caiu numa armadilha. Não há palestra nenhuma, Solomon está desaparecido e, ao que tudo indica, correndo grande perigo. Mal’akh, o sequestrador, acredita que os fundadores de Washington, a maioria deles mestres maçons, esconderam na cidade um tesouro capaz de dar poderes sobre-humanos a quem o encontrasse. E está convencido de que Langdon é a única pessoa que pode localizá-lo. Vendo que essa é sua única chance de salvar Solomon, o simbologista se lança numa corrida alucinada pelos principais pontos da capital americana: o Capitólio, a Biblioteca do Congresso, a Catedral Nacional e o Centro de Apoio dos Museus Smithsonian. Neste labirinto de verdades ocultas, códigos maçônicos e símbolos escondidos, Langdon conta com a ajuda de Katherine, irmã de Peter e renomada cientista que investiga o poder que a mente humana tem de influenciar o mundo físico. O tempo está contra eles. E muitas outras pessoas parecem envolvidas nesta trama que ameaça a segurança nacional, entre elas Inoue Sato, autoridade máxima do Escritório de Segurança da CIA, e Warren Bellamy, responsável pela administração do Capitólio. Como Langdon já aprendeu em suas outras aventuras, quando se trata de segredos e poder, nunca se pode dizer ao certo de que lado cada um está. Nas mãos de Dan Brown, Washington se revela tão fascinante quanto o Vaticano ou Paris. Em O Símbolo Perdido, ele desperta o interesse dos leitores por temas tão variados como ciência noética, teoria das supercordas e grandes obras de arte, os desafiando a abrir a mente para novos conhecimentos.",
+        "year": "2009",
+        "pages": 496,
+        "categories": ["FICTION", "THRILLER", "ROMANCE"]
+      },
+
+      {
+        "title": "Inferno",
+        "description": "No coração da Itália, o professor de simbologia de Harvard, Robert Langdon, é arrastado para um mundo angustiante centrado na história de uma das mais duradouras e misteriosas obras literárias… Inferno, de Dante. Nesse pano de fundo, Langdon luta contra um adversário assustador e enfrenta um enigma engenhoso que puxa para uma paisagem de arte clássica, passagens secretas e ciência futurista. Desenhando o sombrio poema épico de Dante, Langdon começa a correr para encontrar respostas e decidir em quem confiar… antes que o mundo fique irrevogavelmente alterado.",
+        "year": "2013",
+        "pages": 448,
+        "categories": ["FICTION", "THRILLER", "ROMANCE"]
+      },
+
+      {
+        "title": "Fortaleza Digital",
+        "description": "Quando o supercomputador da NSA, até então considerado uma arma invencível para decodificar mensagens terroristas transmitidas pela Internet, se depara com um novo código que não pode ser decifrado, a agência recorre à sua mais brilhante criptógrafa, a bela matemática Susan Fletcher. Presa numa teia de segredos e mentiras, sem saber em quem confiar, Susan precisa encontrar a chave do engenhoso código para evitar o maior desastre da história da inteligência americana e para salvar a sua vida e a do homem que ama.",
+        "year": "2015",
+        "pages": 336,
+        "categories": ["FICTION", "THRILLER", "ROMANCE"]
+      }
+    ]
+  }
+]

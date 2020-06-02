@@ -12,6 +12,7 @@ export class BooksController {
 
   @Get()
   async index (@Query() filters: FilterDto): Promise<IBook[]> {
+    console.log('HELP! HELP! MY BOOKS ARE BEING REPRESSED!');
     return await this.service.retrieve(filters)
   }
 

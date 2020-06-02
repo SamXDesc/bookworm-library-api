@@ -16,6 +16,8 @@ export class AuthorsController {
 
   @Get(':id')
   async show (@Param('id') id: Schema.Types.ObjectId): Promise<IAuthor> {
+    console.log('HELP! HELP! I\'M BEING REPRESSED!');
+
     return await this.service.retrieveOne(id)
   }
 

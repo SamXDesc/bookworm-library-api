@@ -26,17 +26,17 @@ export class BooksService {
   }
 
   async create (createBookDto: CreateBookDto): Promise<IBook> {
-    console.log(createBookDto)
-
     const book: IBook = new this.bookModel({
       ...createBookDto
     })
 
     const saved = await book.save()
 
-    console.log('SAVED:', saved)
-
     return saved
+  }
+
+  async bulkInsert (payload: CreateBookDto[]): Promise<IBook[]> {
+    return await this.bookModel.insertMany(payload)
   }
 
   async update (id: Schema.Types.ObjectId, updateBookDto: UpdateBookDto): Promise<IBook> {

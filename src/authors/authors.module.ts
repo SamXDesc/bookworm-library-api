@@ -15,6 +15,10 @@ import { AuthorSchema } from './author.schema';
 
   providers: [
     AuthorsService
+  ],
+
+  exports: [
+    AuthorsService
   ]
 })
 export class AuthorsModule {}

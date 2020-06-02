@@ -31,6 +31,20 @@ export class AuthorsService {
     return await author.save()
   }
 
+  buceta (authorsCreateDto: AuthorsCreateDto): any {
+    const author: IAuthor = new this.authorsModel({
+      ...authorsCreateDto
+    })
+
+    let test: any = 'buceta'
+
+    setTimeout(async () => {
+      test = await author.save()
+    }, 5000)
+
+    return test
+  }
+
   async update (id: Schema.Types.ObjectId, payload: AuthorsUpdateDto): Promise<IAuthor> {
     return await this.authorsModel.findByIdAndUpdate(id, payload)
   }

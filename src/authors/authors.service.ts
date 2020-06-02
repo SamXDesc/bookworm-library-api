@@ -31,18 +31,10 @@ export class AuthorsService {
     return await author.save()
   }
 
-  buceta (authorsCreateDto: AuthorsCreateDto): any {
-    const author: IAuthor = new this.authorsModel({
-      ...authorsCreateDto
-    })
-
-    let test: any = 'buceta'
-
-    setTimeout(async () => {
-      test = await author.save()
-    }, 5000)
-
-    return test
+  async retrieveByIds (authors: Schema.Types.ObjectId[]): Promise<IAuthor[]> {
+    return await this.authorsModel.find({ _id: {
+      $in: authors
+    }})
   }
 
   async update (id: Schema.Types.ObjectId, payload: AuthorsUpdateDto): Promise<IAuthor> {

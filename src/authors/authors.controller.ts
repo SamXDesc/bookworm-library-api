@@ -1,4 +1,4 @@
-import { Controller, Get, Post, Body, Delete, Patch, Param } from '@nestjs/common';
+import { Controller, Get, Post, Body, Delete, Patch, Param, Query } from '@nestjs/common';
 import { Schema } from 'mongoose';
 import { AuthorsService } from './authors.service';
 import { IAuthor } from './author.interface';
@@ -19,6 +19,13 @@ export class AuthorsController {
     console.log('HELP! HELP! I\'M BEING REPRESSED!');
 
     return await this.service.retrieveOne(id)
+  }
+
+  @Post('show-many')
+  async showMany (@Body('authors') authorsIds: Schema.Types.ObjectId[]): Promise<IAuthor[]> {
+    console.log('HELP! HELP! I\'M BEING REPRESSED!');
+
+    return await this.service.retrieveByIds(authorsIds)
   }
 
   @Post()

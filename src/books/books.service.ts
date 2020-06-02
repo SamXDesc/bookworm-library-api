@@ -12,7 +12,7 @@ export class BooksService {
   constructor (@InjectModel('Book') private bookModel: Model<IBook>) {}
 
   async retrieve (filters: FilterDto): Promise<IBook[]> {
-    return await this.bookModel.find({ ...filters });
+    return await this.bookModel.find({ ...filters }).sort([['author', 1]]);
   }
 
   async retrieveOne (id: Schema.Types.ObjectId): Promise<IBook> {
